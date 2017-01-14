@@ -1,24 +1,4 @@
-# JavaScript Challenge
+Twitter Sentiment
 
-This folder contains code for displaying sentiment analysis of Twitter timelines, created as part of the JavaScript Challenge.
-
-The below questions should be answered regarding your submission!
-
-##### Did you complete any optional extensions to this assignment? If so, what? #####
-> no
-
-
-##### Did you receive help from any other sources (classmates, etc)? If so, please list who (be specific!). #####
-> W3schools
-
-
-##### Approximately how many hours did it take you to complete this assignment? #####
-> 7
-
-
-##### On a scale of 1 (too easy) to 10 (too challenging), how difficult was this assignment? #####
-> 7
-
-
-##### Did you encounter any problems in this assignment we should warn students about in the future? How can we make the assignment better? #####
-> nope!
+Type any twitter handle into the search box and see the feelings they express on their twitter page. 
+You can see the percent each feeling is expressed and the most common words they use to express those feelings. 
